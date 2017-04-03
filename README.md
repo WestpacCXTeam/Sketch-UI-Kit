@@ -59,3 +59,9 @@ If you have any questions or want to share some ideas, please get in contact wit
 1. The Typography system. Why we’ve done it, how it works and why you should use it. https://gel.westpacgroup.com.au/resources/design/typography/
 2. Our UI icon library. How to use icons, when to use icons and… when not to use icons: https://gel.westpacgroup.com.au/resources/design/iconography/
 3. The colour system. Why we’ve done it, how it works and why you should use it: https://gel.westpacgroup.com.au/resources/design/colour/
+
+### License
+
+Copyright (c) Westpac. Licensed under the [GNU GPLv3](https://raw.githubusercontent.com/WestpacCXTeam/Visual-Starter-Pack/master/LICENSE).
+
+**[⬆ back to top](#content)**

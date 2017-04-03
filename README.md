@@ -1,7 +1,7 @@
 # UI-Kit
 A library of assets for designing responsive, multi-brand applications using the GEL design system.
 
-Getting Started
+Getting Started:
 Each element in this UI Kit corresponds to the coded element found in the GUI. They follow the same naming convention and general structure: Module - Element - Style - Size. All the elements in the Sketch file are re-usable symbols with overrides for text, icons, multiple states etc. Where possible elements have been made responsive making it very easy to re-size them in multiple grid layouts. This will help designers quickly create responsive designs that align with the digital brand and the GUI elements.
 
 Before you start

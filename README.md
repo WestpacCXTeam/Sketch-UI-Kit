@@ -28,7 +28,7 @@ We currently use Zeplin or InVision for sharing files with developers. This work
 ## Exporting svg’s
 We’re working with the developers on a process to export svg’s from Sketch. The current Sketch svg export plugins don’t do a very good job.
 
-## FAQ’s:
+## FAQ’s
 
 ### What is the UI Kit?
 The UI Kit is a Sketch document containing all the elements found in the GUI. These elements are identical to the HTML elements used in the GUI framework. You can use these elements in your designs as and when you need them.

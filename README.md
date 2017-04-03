@@ -12,20 +12,20 @@ Each element in this UI Kit corresponds to the coded element found in the GUI. T
 5. Set up this application keyboard short cut: Collapse Artboards and Groups  Alt + Cmd + C
 6. Make sure you subscribe to the GUI update email. We'll let you know when new versions of the UI Kit are released. https://gel.westpacgroup.com.au/GUI/
 
-## Quick Start:
+## Quick Start
 1. Choose a brand and open the UI-Kit.
 2. Additional assets can be found in the Global Assets folder.
   
-## Heads up:
+## Heads up
 All the GUI elements and spacing are based on a unit of 6. This puts visual consistency and rhythm into the design. You’ll notice this in things like the button heights and input field heights etc. The Templates also use a 6px baseline grid to vertically space and size elements.
   
-## Going Multi-Brand:
+## Going Multi-Brand
 All the symbols in the UI-Kit align to our multi-brand design system:- colour, typography, iconography and the grid. Using a combination of Symbols, Layer Styles and Text Styles each element aligns to the design system. Adjusting these styles to reflect the new brand will update all the symbols in your design.
 
-## Doing a Markup:
+## Doing a Markup
 We currently use Zeplin or InVision for sharing files with developers. This works well however it does not allow use to use the explicit name of an element. For example when specifying elements from the GUI you refer to them by their name. For example Striped Row Table or Primary Soft Button. This is all the developer needs to know. The CSS will take care of the styles. We’re still investigating how this can be achieved using Zeplin or InVision.
 
-## Exporting svg’s:
+## Exporting svg’s
 We’re working with the developers on a process to export svg’s from Sketch. The current Sketch svg export plugins don’t do a very good job.
 
 ## FAQ’s:

@@ -63,5 +63,3 @@ If you have any questions or want to share some ideas, please get in contact wit
 ### License
 
 Copyright (c) Westpac. Licensed under the [GNU GPLv3](https://raw.githubusercontent.com/WestpacCXTeam/Visual-Starter-Pack/master/LICENSE).
-
-**[⬆ back to top](#content)**

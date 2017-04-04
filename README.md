@@ -13,18 +13,20 @@ Each element in this UI Kit corresponds to the coded element found in the GUI. T
 6. If you haven't already done it we reccomend setting up this application keyboard short cut: Collapse Artboards and Groups - Alt + Cmd + C - It will save you alot of time. http://sketchshortcuts.com/
 7. Make sure you subscribe to the GUI update email. We'll let you know when new versions of the UI Kit are released. https://gel.westpacgroup.com.au/GUI/
   
-## Heads up
-1. Additional assets can be found in the Global Assets and Graphics folders.
-2. All the GUI elements and spacing are based on a unit of 6. This puts visual consistency, scale and rhythm into the design. You’ll notice this in things like the button heights and input field heights etc. We also use a 6px baseline grid to vertically space and size elements.
+## Spacing elements
+All the GUI elements and spacing are based on a unit of 6. This puts visual consistency, scale and rhythm into the design. You’ll notice this in things like the button heights and input field heights etc. We also use a 6px baseline grid to vertically space and size elements.
 
-## Using brand embellishments.
-Each brand in the UI Kit has a Graphics folder. This contains a Sketch file full of graphic elements like Westpac Energy Bars and St.George Fraxels. We use these graphics to form what we call the embellishment layer. This gives each brand a unique, instantly recognisable look and feel. It's very important that these elements are applied correctly in accordance with the digital brand guidelines. https://www.westpac.com.au/digital-governance/
-  
 ## Going Multi-Brand
 Using a combination of Symbols, Layer Styles and Text Styles each element in the UI Kit is aligned to our multi-brand design system. Adjusting these styles to reflect the new brand will update all symbol instances in your design.
 
+## Using brand embellishments
+Each brand in the UI Kit has a Graphics folder. This contains a Sketch file full of graphic elements like Westpac Energy Bars and St.George Fraxels. We use these graphics (sparingly) to form what we call the embellishment layer. This gives each brand a unique, instantly recognisable look and feel. It's very important that these elements are applied correctly in accordance with the digital brand guidelines. https://www.westpac.com.au/digital-governance/
+
 ## Doing a Markup
 We currently use Zeplin or InVision for sharing files with developers. This works well however it doesn't allow us to use the explicit name of an element. For example when specifying elements from the GUI we refer to them by their name - Striped Row Table or Primary Soft Button. This is all the developer needs to know. The CSS will take care of the styles. We’re still investigating how this can be achieved using Zeplin or InVision.
+
+## Building a Prototype
+We don't currently have a tool of choice for prototyping. You can use anything you want. Proto.io and InVision are popular but there are loads more tools out there. Whatever floats your boat.
 
 ## Exporting svg’s
 We’re working with the developers on a process to export svg’s from Sketch. The current Sketch svg export plugins don’t do a very good job. We'll update this Readme file when we have a robust solution that the developers are happy with.
@@ -52,9 +54,6 @@ Not unless you have a really good rationale explaining the problem you're trying
 
 ### Why Sketch?
 Because that’s what designers want to use. Sketch has become the tool of choice for both UX and Visual designers.
-
-### What do I use for prototyping?
-Right now... anything you want. Proto.io and InVision are popular but there are many more tools out there.
 
 ### Who do I contact for help?
 If you have any questions or want to share some ideas, please get in contact with the GEL team via gel@westpac.com.au. If you have a Slack account, join the conversation at https://westpac-digital.slack.com. There’s also loads of information and resources in the site: https://gel.westpacgroup.com.au

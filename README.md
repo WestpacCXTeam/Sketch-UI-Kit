@@ -21,13 +21,13 @@ Each element in this UI Kit corresponds to the coded element found in the GUI. T
 All the GUI elements and spacing are based on a unit of 6. This puts visual consistency and rhythm into the design. You’ll notice this in things like the button heights and input field heights etc. The Templates also use a 6px baseline grid to vertically space and size elements.
   
 ## Going Multi-Brand
-All the symbols in the UI-Kit align to our multi-brand design system:- colour, typography, iconography and the grid. Using a combination of Symbols, Layer Styles and Text Styles each element aligns to the design system. Adjusting these styles to reflect the new brand will update all the symbols in your design.
+Using a combination of Symbols, Layer Styles and Text Styles each element in the UI Kit is aligned to our multi-brand design system - colour, typography, iconography and the grid. Adjusting these styles to reflect the new brand will update all symbol instances in your design.
 
 ## Doing a Markup
-We currently use Zeplin or InVision for sharing files with developers. This works well however it does not allow use to use the explicit name of an element. For example when specifying elements from the GUI you refer to them by their name. For example Striped Row Table or Primary Soft Button. This is all the developer needs to know. The CSS will take care of the styles. We’re still investigating how this can be achieved using Zeplin or InVision.
+We currently use Zeplin or InVision for sharing files with developers. This works well however it does not allow use to use the explicit name of an element. For example when specifying elements from the GUI we refer to them by their name. For example Striped Row Table or Primary Soft Button. This is all the developer needs to know. The CSS will take care of the styles. We’re still investigating how this can be achieved using Zeplin or InVision.
 
 ## Exporting svg’s
-We’re working with the developers on a process to export svg’s from Sketch. The current Sketch svg export plugins don’t do a very good job.
+We’re working with the developers on a process to export svg’s from Sketch. The current Sketch svg export plugins don’t do a very good job. We'll update this readme when we have a robust solution that the developers are happy with.
 
 ## FAQ’s
 
@@ -39,10 +39,10 @@ A huge amount of time and effort has gone into developing these elements to ensu
 If you don’t use it or choose to ignore or alter these styles, people will get upset, there will be wide spread confusion, deadlines will be missed, costs will blow out, you will have to attend even more meetings and all will not be well with the world. If you use these styles you will be a happy bunny and everyone will love you.
 
 ### I’m designing a native app. Do I still use the UI Kit?
-There’s no reason not to. The visual style of the GUI elements applies to all interfaces as this is our digital brand. You may need to use native UI elements which is OK just be aware of the digital brand and the customer journey. Where have users come from and where are they going from here.
+There’s no reason not to. The visual style of the GUI elements applies to all interfaces as this is our digital brand. In some cases you may prefer to use native UI elements. This is OK, just be aware that your design needs to align with the digital brand and it's part of larger customer journey.
 
 ### What if the element I need is not in the UI Kit?
-The GUI only covers the basic core UI elements common to most interfaces. Bespoke elements more than likely need to be designed. If that’s the case, knock yourself out. If you design something good and it gets re-used it will probably end up in the GUI and you will be famous.
+The GUI only covers the basic core UI elements common to most user interfaces. Every project genaraly requires some degree of bespoke components that are not available in the GUI. If that’s the case, knock yourself out. Just don't re-invent what's already been done.
 
 ### Can I add cool embellishment to the UI elements like bevels and textured backgrounds?
 No.

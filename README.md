@@ -47,10 +47,10 @@ The GUI only covers the basic core UI elements common to most interfaces. Bespok
 No.
 
 ### Can I tweak and change things just slightly?
-Not unless you have a good reason and rationale as to why the change is required. Your project is part of a customer journey. Every change and variation to the UI fragments the customer journey and dilutes the brand integrity.
+Not unless you have a good rationale explaining the problem you're trying to solve? Your project is part of a customer journey. Every change and variation to the UI fragments the customer journey and dilutes the brand integrity.
 
 ### Why Sketch?
-Because that’s what everyone wanted to use. We used InDesign and Axure for several years but Sketch got the land grab so here we are. Due to popular demand Sketch is the tool of choice for both UX and Visual designers.
+Because that’s what designers want to use. Due to popular demand Sketch is the tool of choice for both UX and Visual designers.
 
 ### Who do I contact for help?
 If you have any questions or want to share some ideas, please get in contact with the GEL team via gel@westpac.com.au. If you have a Slack account, join the conversation at https://westpac-digital.slack.com. There’s also loads of information and resources in the site: https://gel.westpacgroup.com.au

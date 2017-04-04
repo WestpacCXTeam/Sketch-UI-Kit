@@ -6,7 +6,7 @@ Each element in this UI Kit corresponds to the coded element found in the GUI. T
 
 ## Before you start
 1. Make a cup of tea and have a good look through the GEL and the GUI https://gel.westpacgroup.com.au. Familiarise yourself with the GUI elements so you understand how to use them properly in your design. There’s a lot in there so take your time. We’ve tried to keep text to a minimum but please read what is says. Don’t just look at the pictures.
-2. As a UI designer it’s crucial that you understand how the responsive grid works. If you don’t understand this your design will probably break.
+2. It’s important to understand how the responsive grid works e.g. offsets, spans, nesting etc. Have a look at a GUI demo page. It's a good way to get your head around how the fluid grid works at different breakpoints. https://gel.westpacgroup.com.au/GUI/WBC/examples/tabcordions/4.1.0/ex8/demo/?v=0.2.0
 3. Make sure you’ve installed all the fonts in the Global-Assets folder.
 4. You’ll need Sketch 42 or later to open all this stuff.
 5. Set up this application keyboard short cut: Collapse Artboards and Groups  Alt + Cmd + C

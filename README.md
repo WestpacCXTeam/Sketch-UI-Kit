@@ -2,7 +2,7 @@
 A complete set of user interface elements to help designers create high quality, consistent, experiences for all our digital brands.
 
 ## Getting Started
-Each element in this UI Kit corresponds to the coded element found in the GUI. They follow the same naming convention and general structure: Module - Element - Style - Size. All the elements in the Sketch file are re-usable symbols with overrides for text, icons, multiple states etc. Where possible elements have been made responsive making it very easy to re-size them in multiple grid layouts. This will help designers quickly create responsive designs that align with the digital brand and the GUI elements.
+Each element in this UI Kit corresponds to the coded element found in the GUI. They follow the same naming convention and general structure: Module - Element - Style - Size. All the elements in the Sketch file are re-usable symbols with overrides for text, icons, multiple states etc. Where possible elements have been made responsive making it easier to re-size them in multiple grid layouts. This will help designers quickly create responsive designs that align with the digital brand and the GUI elements.
 
 ## Before you start
 1. Make a cup of tea and have a good look through the GEL and the GUI https://gel.westpacgroup.com.au. Familiarise yourself with the GUI elements so you understand how to use them properly in your design. There’s a lot in there so take your time. We’ve tried to keep text to a minimum but please read what is says. Don’t just look at the pictures.
@@ -12,22 +12,19 @@ Each element in this UI Kit corresponds to the coded element found in the GUI. T
 5. Set up this application keyboard short cut: Collapse Artboards and Groups  Alt + Cmd + C
 6. Install the Sketch-Palettes plugin by Andrew Fiorillo. https://github.com/andrewfiorillo/sketch-palettes This will allow you load the correct colour palettes for each of our brands.
 7. Make sure you subscribe to the GUI update email. We'll let you know when new versions of the UI Kit are released. https://gel.westpacgroup.com.au/GUI/
-
-## Quick Start
-1. Choose a brand and open the UI-Kit.
-2. Additional assets can be found in the Global Assets folder.
   
 ## Heads up
-All the GUI elements and spacing are based on a unit of 6. This puts visual consistency and rhythm into the design. You’ll notice this in things like the button heights and input field heights etc. The Templates also use a 6px baseline grid to vertically space and size elements.
+1. Additional assets can be found in the Global Assets and Graphics folders.
+2. All the GUI elements and spacing are based on a unit of 6. This puts visual consistency and rhythm into the design. You’ll notice this in things like the button heights and input field heights etc. The Templates also use a 6px baseline grid to vertically space and size elements.
   
 ## Going Multi-Brand
-Using a combination of Symbols, Layer Styles and Text Styles each element in the UI Kit is aligned to our multi-brand design system - colour, typography, iconography and the grid. Adjusting these styles to reflect the new brand will update all symbol instances in your design.
+Using a combination of Symbols, Layer Styles and Text Styles each element in the UI Kit is aligned to our multi-brand design system. Adjusting these styles to reflect the new brand will update all symbol instances in your design.
 
 ## Doing a Markup
-We currently use Zeplin or InVision for sharing files with developers. This works well however it does not allow use to use the explicit name of an element. For example when specifying elements from the GUI we refer to them by their name. For example Striped Row Table or Primary Soft Button. This is all the developer needs to know. The CSS will take care of the styles. We’re still investigating how this can be achieved using Zeplin or InVision.
+We currently use Zeplin or InVision for sharing files with developers. This works well however it does not allow us to use the explicit name of an element. For example when specifying elements from the GUI we refer to them by their name - Striped Row Table or Primary Soft Button. This is all the developer needs to know. The CSS will take care of the styles. We’re still investigating how this can be achieved using Zeplin or InVision.
 
 ## Exporting svg’s
-We’re working with the developers on a process to export svg’s from Sketch. The current Sketch svg export plugins don’t do a very good job. We'll update this readme when we have a robust solution that the developers are happy with.
+We’re working with the developers on a process to export svg’s from Sketch. The current Sketch svg export plugins don’t do a very good job. We'll update this Readme file when we have a robust solution that the developers are happy with.
 
 ## FAQ’s
 
@@ -39,16 +36,16 @@ A huge amount of time and effort has gone into developing these elements to ensu
 If you don’t use it or choose to ignore or alter these styles, people will get upset, there will be wide spread confusion, deadlines will be missed, costs will blow out, you will have to attend even more meetings and all will not be well with the world. If you use these styles you will be a happy bunny and everyone will love you.
 
 ### I’m designing a native app. Do I still use the UI Kit?
-There’s no reason not to. The visual style of the GUI elements applies to all interfaces as this is our digital brand. In some cases you may prefer to use native UI elements. This is OK, just be aware that your design needs to align with the digital brand and it's part of larger customer journey.
+There’s no reason not to. The visual style of the GUI elements applies to all user interfaces. This is our digital brand. In some cases you may prefer to use native UI elements. This is OK, just be aware that your design needs to align with the digital brand and it's part of larger customer journey which must be consistent.
 
 ### What if the element I need is not in the UI Kit?
-The GUI only covers the basic core UI elements common to most user interfaces. Every project genaraly requires some degree of bespoke components that are not available in the GUI. If that’s the case, knock yourself out. Just don't re-invent what's already been done.
+The GUI only covers the core UI elements common to most user interfaces. Every project genaraly requires bespoke components that are not available in the GUI. If that’s the case, knock yourself out, just don't re-invent what's already been done.
 
 ### Can I add cool embellishment to the UI elements like bevels and textured backgrounds?
 No.
 
 ### Can I tweak and change things just slightly?
-Not unless you have a good rationale explaining the problem you're trying to solve? Your project is part of a customer journey. Every change and variation to the UI fragments the customer journey and dilutes the brand integrity.
+Not unless you have a really good rationale explaining the problem you're trying to solve? Your project is part of a customer journey. Every change and variation to the UI fragments the customer journey and dilutes the brand integrity.
 
 ### Why Sketch?
 Because that’s what designers want to use. Due to popular demand Sketch is the tool of choice for both UX and Visual designers.

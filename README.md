@@ -39,7 +39,7 @@ A huge amount of time and effort has gone into developing these elements to ensu
 If you don’t use it or choose to ignore or alter these styles, people will get upset, there will be wide spread confusion, deadlines will be missed, costs will blow out, you will have to attend even more meetings and all will not be well with the world. If you use these styles you will be a happy bunny and everyone will love you.
 
 ### I’m designing a native app. Do I still use the UI Kit?
-There’s no reason not to. The visual style of the GUI elements applies to any and all interfaces. You may need to use native UI elements and thats OK just be aware of the digital brand and the customer journey. Where have users come from and where are they going from here.
+There’s no reason not to. The visual style of the GUI elements applies to all interfaces as this is our digital brand. You may need to use native UI elements which is OK just be aware of the digital brand and the customer journey. Where have users come from and where are they going from here.
 
 ### What if the element I need is not in the UI Kit?
 The GUI only covers the basic core UI elements common to most interfaces. Bespoke elements more than likely need to be designed. If that’s the case, knock yourself out. If you design something good and it gets re-used it will probably end up in the GUI and you will be famous.

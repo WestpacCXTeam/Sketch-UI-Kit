@@ -1,6 +1,8 @@
 # UI-Kit
 A complete set of design assets to help you create high quality, consistent, experiences across all our digital brands.
 
+[![The UI Kit](https://gel.westpacgroup.com.au/downloads/visual-design/important/ui-kit-poster-frame.png)](https://player.vimeo.com/video/216140143?autoplay=1&quality=1080p)
+
 ## Getting Started
 Each element in this UI Kit corresponds to the coded element found in the GUI. They follow the same naming convention and general structure: Module - Element - Style - Size. All the elements in the Sketch file are re-usable symbols with overrides for text, icons, multiple states etc. Where possible elements have been made responsive making it easier to re-size them in multiple grid layouts. This will help designers quickly create responsive designs that align with the digital brand and the GUI elements.
 

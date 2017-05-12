@@ -11,8 +11,8 @@ Each element in this UI Kit corresponds to the coded element found in the GUI. T
 2. It’s important to understand how the responsive grid works e.g. offsets, spans, nesting etc. Have a look at a GUI demo page. It's a good way to get your head around how the fluid grid works at different breakpoints. https://gel.westpacgroup.com.au/GUI/WBC/examples/tabcordions/4.1.0/ex8/demo/?v=0.2.0
 3. Make sure you’ve installed all the fonts in the Global-Assets folder.
 4. You’ll need Sketch 42 or later to open all this stuff.
-5. Install the Sketch-Palettes plugin by Andrew Fiorillo. https://github.com/andrewfiorillo/sketch-palettes This will allow you load the correct colour palettes for each of our brands.
-6. If you haven't already done it we reccomend setting up this application keyboard short cut: Collapse Artboards and Groups - Alt + Cmd + C - It will save you alot of time. http://sketchshortcuts.com/
+5. Install the Sketch-Palettes plugin by Andrew Fiorillo. https://github.com/andrewfiorillo/sketch-palettes This will allow you to load the correct colour palettes for each of our brands.
+6. If you haven't already done it we recommend setting up this application keyboard short cut: Collapse Artboards and Groups - Alt + Cmd + C - It will save you alot of time. http://sketchshortcuts.com/
 7. Subscribe to the GUI update email. We'll let you know when new versions of the UI Kit are released. https://gel.westpacgroup.com.au/GUI/
   
 ## Spacing elements
@@ -50,7 +50,7 @@ If you don’t use it or choose to ignore or alter these styles, people will get
 There’s no reason not to. The visual style of the GUI elements applies to all user interfaces. This is our digital brand. In some cases you may prefer to use native UI elements. This is OK, just be aware that your design needs to align with the digital brand and it's part of larger customer journey which must be consistent.
 
 ### What if the element I need is not in the UI Kit?
-The GUI only covers the core UI elements common to most user interfaces. Every project genaraly requires bespoke components that are not available in the GUI. If that’s the case, knock yourself out, just don't re-invent what's already been done.
+The GUI only covers the core UI elements common to most user interfaces. Every project generally requires bespoke components that are not available in the GUI. If that’s the case, knock yourself out, just don't re-invent what's already been done.
 
 ### Can I add cool embellishment to the UI elements like bevels and textured backgrounds?
 No.

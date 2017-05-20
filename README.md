@@ -10,7 +10,7 @@ Each element in this UI Kit corresponds to the coded element found in the GUI. T
 1. Have a good look through the GEL and the GUI https://gel.westpacgroup.com.au. Familiarise yourself with the GUI elements so you understand how to use them properly in your design. There’s a lot so take your time. We’ve tried to keep text to a minimum but please read what is says. Don’t just look at the pictures.
 2. It’s important to understand how the responsive grid works e.g. offsets, spans, nesting etc. Have a look at a GUI demo page. It's a good way to get your head around how the fluid grid works at different breakpoints. https://gel.westpacgroup.com.au/GUI/WBC/examples/tabcordions/4.1.0/ex8/demo/?v=0.2.0
 3. Make sure you’ve installed all the fonts in the Global-Assets folder.
-4. You’ll need Sketch 42 or later to open all this stuff.
+4. You’ll need the latest version of Sketch to open all this stuff.
 5. Install the Sketch-Palettes plugin by Andrew Fiorillo. https://github.com/andrewfiorillo/sketch-palettes This will allow you to load the correct colour palettes for each of our brands.
 6. If you haven't already done it we recommend setting up this application keyboard short cut: Collapse Artboards and Groups - Alt + Cmd + C - It will save you alot of time. http://sketchshortcuts.com/
 7. Subscribe to the GUI update email. We'll let you know when new versions of the UI Kit are released. https://gel.westpacgroup.com.au/GUI/

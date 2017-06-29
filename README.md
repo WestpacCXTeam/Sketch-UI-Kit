@@ -12,7 +12,7 @@ Each element in this UI Kit corresponds to the coded element found in the GUI. T
 3. Make sure you’ve installed all the fonts in the Global-Assets folder.
 4. You’ll need the latest version of Sketch to open all this stuff.
 5. Install the Sketch-Palettes plugin by Andrew Fiorillo. https://github.com/andrewfiorillo/sketch-palettes This will allow you to load the correct colour palettes for each of our brands.
-6. If you haven't already done it we recommend setting up this application keyboard short cut: Collapse Artboards and Groups - Alt + Cmd + C - It will save you alot of time. http://sketchshortcuts.com/
+6. If you haven't already done it we recommend setting up this application keyboard short cut: Collapse All Groups - Alt + Cmd + C - It will save you alot of time.
 7. Subscribe to the GUI update email. We'll let you know when new versions of the UI Kit are released. https://gel.westpacgroup.com.au/GUI/
   
 ## Spacing elements

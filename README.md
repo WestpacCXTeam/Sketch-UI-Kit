@@ -3,7 +3,7 @@ A complete set of design assets to help you create high quality, consistent, exp
 
 [![The UI Kit](https://gel.westpacgroup.com.au/downloads/visual-design/important/ui-kit-poster-frame-2.png)](https://player.vimeo.com/video/216140143?autoplay=1&quality=1080p)
 
-## Getting Started
+## Getting started
 Each element in this UI Kit corresponds to the coded element found in the GUI. They follow the same naming convention and general structure: Module - Element - Style - Size. All the elements in the Sketch file are re-usable symbols with overrides for text, icons, multiple states etc. Where possible elements have been made responsive making it easier to re-size them in multiple grid layouts. This will help designers quickly create responsive designs that align with the digital brand and the GUI elements.
 
 ## Before you start
@@ -18,7 +18,7 @@ Each element in this UI Kit corresponds to the coded element found in the GUI. T
 ## Spacing elements
 All the GUI elements and spacing are based on a unit of 6. This puts visual consistency, scale and rhythm into the design. You’ll notice this in things like the button heights and input field heights etc. We also use a 6px baseline grid to vertically space and size elements.
 
-## Going Multi-Brand
+## Going multi-brand
 Using a combination of Symbols, Layer Styles and Text Styles each element in the UI Kit is aligned to our multi-brand design system. Adjusting these styles to reflect the new brand will update all symbol instances in your design. Please note: The UI Kit does not use Craft Library. There are several reason for this:
 1. Text styles and colours saved in Craft work independently of Sketch’s text styles and document colours. You’d have to use Craft library to access the global text styles and colours in your design system, instead of the built-in Sketch interface. As a result duplicate styles and colours could exist in Sketch and Craft causing confusion and errors.
 2. Craft doesn't support Sketch's very powerful Layer Styles. Deal breaker.
@@ -28,10 +28,10 @@ We're also investigating Brand.AI as a potential soution to sharing a design sys
 ## Using brand embellishments
 Each brand in the UI Kit has a Graphics folder. This contains a Sketch file full of graphic elements like Westpac Energy Bars and St.George Fraxels. We use these graphics (sparingly) to form what we call the embellishment layer. This gives each brand a unique, instantly recognisable look and feel. It's very important that these elements are applied correctly in accordance with the digital brand guidelines. https://www.westpac.com.au/digital-governance/
 
-## Doing a Markup
+## Doing a markup
 We currently use Zeplin or InVision for sharing files with developers. These work OK however they don't allow us to use the explicit name of an element. For example when specifying elements from the GUI we refer to them by their name - Striped Row Table or Primary Soft Button. This is all the developer needs to know. The CSS will take care of the styles. We’re still investigating how this can be achieved using Zeplin or InVision.
 
-## Building a Prototype
+## Building a prototype
 We don't currently have a tool of choice for prototyping. You can use anything you want. Proto.io and InVision are popular but there are loads more tools out there. Whatever floats your boat.
 
 ## Exporting svg’s

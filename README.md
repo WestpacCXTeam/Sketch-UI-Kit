@@ -1,4 +1,4 @@
-# UI-Kit
+# Sketch UI Kit
 A complete set of design assets to help you create high quality, consistent, experiences across all our digital brands.
 
 [![The UI Kit](https://gel.westpacgroup.com.au/downloads/visual-design/important/ui-kit-poster-frame-2.png)](https://player.vimeo.com/video/216140143?autoplay=1&quality=1080p)
